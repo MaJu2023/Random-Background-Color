@@ -1,8 +1,8 @@
 # Background Color Changer
 
-![Screenshot1](imagenes/screenshot1.jpg)
-![Screenshot1](imagenes/screenshot2.jpg)
-![Screenshot1](imagenes/screenshot3.jpg)
+![Screenshot1](images/screenshot1.jpg)
+![Screenshot1](images/screenshot2.jpg)
+![Screenshot1](images/screenshot3.jpg)
 
 ## Description
 
