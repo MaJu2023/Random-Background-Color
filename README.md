@@ -1,8 +1,8 @@
+# Background Color Changer
+
 ## Description
 
 The Background Color Changer is a simple web application that allows you to change the background color of the `<body>` element by clicking a button. Each click generates a random hexadecimal color code, resulting in a visually dynamic and fun experience.
-
-# Background Color Changer
 
 ![Screenshot1](images/screenshot1.jpg)
 ![Screenshot1](images/screenshot2.jpg)
